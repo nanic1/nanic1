@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Desenvolvedor Web<br>👯 Actually working at Mobi Banco
+🔭 Web Developer<br>👯 Actually working at Mobi Banco
 
 
 ## 🌐 Socials:
