@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Desenvolvedor Web<br>👯 Procurando estágio na área
+🔭 Desenvolvedor Web<br>👯 Actually working at Mobi Banco
 
 
 ## 🌐 Socials:
