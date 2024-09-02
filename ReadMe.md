@@ -1,5 +1,5 @@
 # Sobre mim:
-🔭 Estudando para ser um Desenvolvedor Full Stack<br>👯 Atualmente estagiando na Mobi Banco
+🔭 Estudando Desenvolvimento Web<br>👯 Atualmente estagiando na Mobi Banco
 
 
 
