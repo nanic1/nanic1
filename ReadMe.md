@@ -1,5 +1,5 @@
 # Sobre mim:
-🔭 Estudando Desenvolvimento Web<br>👯 Atualmente estagiando na Mobi Banco
+🔭 Estudando Desenvolvimento Web<br>
 
 
 
