@@ -1,5 +1,5 @@
 # About me:
-🔭 Studying to be a Web Developer<br>
+🔭 Studying to be a Full Stack Enginner<br>
 
 
 
