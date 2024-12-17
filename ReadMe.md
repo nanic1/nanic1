@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nanic1&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📂 Projects:
-- [🍕Fontenelle](https://nanic1.github.io/Fontenelle/)
-- [🖥️GTech (IBMEC)](https://nanic1.github.io/GTech/)
+- [🍕](https://nanic1.github.io/Fontenelle/) [🍕Fontenelle](https://nanic1.github.io/Fontenelle/)
+- [🖥️](https://nanic1.github.io/GTech/) [GTech (IBMEC)](https://nanic1.github.io/GTech/)
 - [![Pokemon](https://github.com/nanic1/pokedex-js/blob/main/imagens/pokeball.svg)](https://nanic1.github.io/pokedex-js/) [Pokemon](https://nanic1.github.io/pokedex-js/)
