@@ -15,3 +15,4 @@
 ## 📂 Projects:
 - [🍕Fontenelle](https://nanic1.github.io/Fontenelle/)
 - [🖥️GTech (IBMEC)](https://nanic1.github.io/GTech/)
+- [![Pokemon](https://cdn-icons-png.freepik.com/256/16037/16037595.png)](https://nanic1.github.io/pokedex-js/)
