@@ -13,5 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nanic1&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 📂 Projects:
-- [🍕Fontenelle](https://nanic1.github.io/Fontenelle/)
-- [🖥️ GTech (IBMEC)](https://nanic1.github.io/GTech/)
+- [🍕Fontenelle](https://github.com/nanic1/Fontenelle)
+- [🖥️ GTech (IBMEC)](https://github.com/nanic1/GTech)
