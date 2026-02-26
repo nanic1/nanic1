@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nanic1&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 📂 Projects:
+- [🤖 E-commerce ChatBot](https://github.com/ThiagoBrandaorj/BigData-CloudComputing-IBMEC)
 - [🍕Fontenelle](https://github.com/nanic1/Fontenelle)
 - [🖥️ GTech (IBMEC)](https://github.com/nanic1/GTech)
 - [✍️ Register Forms](https://github.com/nanic1/formulario-de-cadastro)
-- [🤖 E-commerce ChatBot](https://github.com/ThiagoBrandaorj/BigData-CloudComputing-IBMEC)
