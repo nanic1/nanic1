@@ -16,3 +16,4 @@
 - [🖥️ GTech (IBMEC)](https://github.com/nanic1/GTech)
 - [✍️ Register Forms](https://github.com/nanic1/formulario-de-cadastro)
 - [🗂️ Task List](https://github.com/nanic1/task-list)
+- [📊 CSV Scrap](https://github.com/nanic1/csv-filter)
