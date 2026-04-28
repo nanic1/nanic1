@@ -19,3 +19,4 @@
 - [🕸️ Web Scrap Condomínios](https://github.com/nanic1/condominio-scrap)
 - [🗂️ Task List](https://github.com/nanic1/task-list)
 - [📊 CSV Scrap](https://github.com/nanic1/csv-filter)
+- [🤖 APSA App](https://github.com/nanic1/apsa-app)
