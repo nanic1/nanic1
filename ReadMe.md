@@ -15,8 +15,6 @@
 - [🍕 Fontenelle](https://github.com/nanic1/Fontenelle)
 - [🖥️ GTech (IBMEC)](https://github.com/nanic1/GTech)
 - [✍️ Register Forms](https://github.com/nanic1/formulario-de-cadastro)
-- [🏣 Scrap Receita Federal](https://github.com/nanic1/receita-api-cnae-scrap)
 - [🕸️ Web Scrap Condomínios](https://github.com/nanic1/condominio-scrap)
 - [🗂️ Task List](https://github.com/nanic1/task-list)
-- [📊 CSV Scrap](https://github.com/nanic1/csv-filter)
 - [🤖 APSA App](https://github.com/nanic1/apsa-app)
