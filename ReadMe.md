@@ -15,4 +15,3 @@
 - [✍️ Register Forms](https://github.com/nanic1/formulario-de-cadastro)
 - [🕸️ Web Scrap Condomínios](https://github.com/nanic1/condominio-scrap)
 - [🗂️ Task List](https://github.com/nanic1/task-list)
-- [🤖 APSA App](https://github.com/nanic1/apsa-app)
